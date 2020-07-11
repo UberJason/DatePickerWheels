@@ -13,6 +13,7 @@
 		96E5144124B8015300918600 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96E5143F24B8015300918600 /* Main.storyboard */; };
 		96E5144324B8015300918600 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96E5144224B8015300918600 /* Assets.xcassets */; };
 		96E5144624B8015300918600 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96E5144424B8015300918600 /* LaunchScreen.storyboard */; };
+		96E5144E24BA378600918600 /* LabeledToolbarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E5144D24BA378600918600 /* LabeledToolbarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		96E5144224B8015300918600 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96E5144524B8015300918600 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96E5144724B8015300918600 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96E5144D24BA378600918600 /* LabeledToolbarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabeledToolbarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				96E5143924B8015300918600 /* AppDelegate.swift */,
 				96E5143B24B8015300918600 /* SceneDelegate.swift */,
 				96E5143D24B8015300918600 /* ViewController.swift */,
+				96E5144D24BA378600918600 /* LabeledToolbarView.swift */,
 				96E5143F24B8015300918600 /* Main.storyboard */,
 				96E5144224B8015300918600 /* Assets.xcassets */,
 				96E5144424B8015300918600 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				96E5143E24B8015300918600 /* ViewController.swift in Sources */,
 				96E5143A24B8015300918600 /* AppDelegate.swift in Sources */,
+				96E5144E24BA378600918600 /* LabeledToolbarView.swift in Sources */,
 				96E5143C24B8015300918600 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
